@@ -5,9 +5,10 @@
   - Format: Tutorial/discussion + lightning talks
   - Goal is to get this self-sustaining by the end of academic year
 - Organizational models for learning about software
+  - Courses, bootcamps, meetups, and communities of practice
   - <http://www.thehackerwithin.org/>
   - <https://science.mozilla.org/>
-  - Courses, bootcamps, meetups, and communities of practice
+  - <http://software-carpentry.org/index.html>
 - Cornell resources for scientific computing
   - CAC, CIT, RDMSG, and other groups
   - Local courses and workshops
