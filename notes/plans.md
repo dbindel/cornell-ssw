@@ -10,13 +10,20 @@
   - <https://science.mozilla.org/>
   - <http://software-carpentry.org/index.html>
 - Cornell resources for scientific computing
-  - CAC, CIT, RDMSG, and other groups
+  - [CAC](https://www.cac.cornell.edu/),
+    [CIT](http://www.it.cornell.edu/),
+    [RDMSG](http://data.research.cornell.edu/), and other groups
   - Local courses and workshops
   - Student-run tutorials
 - Version control
-  - Git, Mercurial, Subversion, and company
-  - Hosted services: GitHub, Bitbucket, Assembla, etc
-  - Cornell-local options: GitHub Enterprise, Sourceforge
+  - [Git](https://git-scm.com/),
+    [Mercurial](https://www.mercurial-scm.org/),
+    [Subversion](https://subversion.apache.org/), and company
+  - Hosted services: [GitHub](https://github.com/),
+    [Bitbucket](https://bitbucket.org/),
+    [Assembla](https://www.assembla.com/home), etc
+  - Cornell-local options:
+    [GitHub Enterprise](http://www.it.cornell.edu/support/coecis/github.cfm), [Sourceforge](https://forge.cornell.edu/)
   - What to control?  Issues with built artifacts and large data
   - Locks, pull requests, and collaboration with version control
 - At the terminal
