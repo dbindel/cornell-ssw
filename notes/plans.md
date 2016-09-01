@@ -65,7 +65,7 @@
     [EC2](https://aws.amazon.com/),
     [GCP](https://cloud.google.com/), and
     [Azure](https://azure.microsoft.com/en-us/) (try to get industry tutorials?)
-  - [RedCloud](https://www.cac.cornell.edu/services/cloudservices.aspx) (get CAC tutorial?)
+  - [Red Cloud](https://www.cac.cornell.edu/services/cloudservices.aspx) (get CAC tutorial?)
   - Accelerators, Infiniband, and other specialized support
 - Environment virtualization
   - Virtual machines
