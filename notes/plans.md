@@ -28,19 +28,30 @@
   - Locks, pull requests, and collaboration with version control
 - At the terminal
   - Local and remote terminals
-  - Windows: Cygwin, MinGW, and Linux in Windows 10
+  - Windows: [Cygwin](https://www.cygwin.com/),
+    [MinGW](http://www.mingw.org/), and
+    [Linux in Windows 10](https://msdn.microsoft.com/en-us/commandline/wsl/about)
   - SSH keys and password-free operation
-  - screen, tmux, and other terminal multiplexing options
-  - Terminal sharing with tmate
+  - [screen](https://www.gnu.org/software/screen/),
+    [tmux](https://tmux.github.io/), and other terminal multiplexing options
+  - Terminal sharing with [tmate](https://tmate.io/)
 - Language environments and tooling
-  - "Just enough" introductions: Bash, Python, MATLAB, Julia, R
+  - "Just enough" introductions:
+    [Bash](http://tldp.org/LDP/abs/html/),
+    [Python](https://docs.python.org/3/tutorial/),
+    [MATLAB](http://www.cs.cornell.edu/courses/cs1132/2015sp/),
+    [Julia](http://julialang.org/learning/),
+    [R](https://www.r-project.org/)
   - Issues in high-performance scripting
-  - Using Jupyter notebooks
+  - Using [Jupyter notebooks](http://jupyter.org/)
 - Workflow automation and documentation
-  - Make, Rake, SnakeMake, etc
+  - [Make](https://www.gnu.org/software/make/manual/make.html),
+    [Rake](https://ruby.github.io/rake/),
+    [SnakeMake](https://bitbucket.org/snakemake/snakemake/wiki/Home), etc
   - Pipelines and notebooks
   - Reproducibility
-  - Continuous integration environments (Bamboo, Jenkins, TravisCI, etc)
+  - Continuous integration environments ([Bamboo](https://www.atlassian.com/software/bamboo),
+  [Jenkins](https://jenkins.io/), [TravisCI](https://travis-ci.org/), etc)
 - Getting computing resources for scientific computing
   - Overview: Servers, clusters, clouds, supercomputers
   - Cornell-local resources
@@ -58,7 +69,7 @@
   - Reproducibility best practices
   - Special issues with reproducibility and high-performance computing
 - Build and configuration
-  - "The build problem": survey and history
+  - "[The build problem](http://grosskurth.ca/bib/2003/dubois.pdf)": survey and history
   - Autotools, CMake, SCons, etc
 - Packaging and distribution
   - Semantic versioning
