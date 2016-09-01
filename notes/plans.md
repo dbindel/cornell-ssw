@@ -87,7 +87,14 @@
   - [Javadoc](https://en.wikipedia.org/wiki/Javadoc),
     [Doxygen](http://www.doxygen.org/),
     [Sphinx](http://www.sphinx-doc.org/), and other tools
-  - Plain-text formats: RESt, Markdown, LaTeX
+  - Plain-text formats:
+    [RESt](http://docutils.sourceforge.net/rst.html),
+    [Markdown](https://daringfireball.net/projects/markdown/),
+    [LaTeX](https://www.latex-project.org/)
+  - Collaborative document editing frameworks:
+    [Overleaf](https://www.overleaf.com/),
+    [Authorea](https://www.authorea.com/),
+    [ShareLaTeX](https://www.sharelatex.com/)
   - [Pandoc](http://pandoc.org/)
   - [Literate programming](http://www.literateprogramming.com/)
 - Data management
@@ -99,7 +106,12 @@
      [YAML](http://yaml.org/),
      [JSON](http://www.json.org/), metadata, and semi-structured data
   - Facilities for large-scale working data
-  - Data set archival
+  - Data set archival and dissemination:
+    [figshare](https://figshare.com/),
+    [zenodo](https://zenodo.org/),
+    [Dryad](http://www.datadryad.org/),
+    [re3data](http://www.re3data.org/),
+    [eCommons](https://ecommons.cornell.edu/)
 - Plotting and visualization
   - [Matplotlib](http://matplotlib.org/),
      [Seaborn](https://stanford.edu/~mwaskom/software/seaborn/),
