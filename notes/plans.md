@@ -9,6 +9,7 @@
   - <http://www.thehackerwithin.org/>
   - <https://science.mozilla.org/>
   - <http://software-carpentry.org/index.html>
+  - <http://labcarpentry.org/>
 - Cornell resources for scientific computing
   - [CAC](https://www.cac.cornell.edu/),
     [CIT](http://www.it.cornell.edu/),
@@ -44,10 +45,12 @@
     [R](https://www.r-project.org/)
   - Issues in high-performance scripting
   - Using [Jupyter notebooks](http://jupyter.org/)
+  - Hosted notebooks ([Azure](https://notebooks.azure.com/), [Everware](https://github.com/everware), [Binder](http://mybinder.org/), [Wakari](https://wakari.io/), [SageMathCloud](https://cloud.sagemath.com/), etc).
 - Workflow automation and documentation
   - [Make](https://www.gnu.org/software/make/manual/make.html),
     [Rake](https://ruby.github.io/rake/),
-    [SnakeMake](https://bitbucket.org/snakemake/snakemake/wiki/Home), etc
+    [SnakeMake](https://bitbucket.org/snakemake/snakemake/wiki/Home),
+    [PyDoIt](http://pydoit.org/), etc
   - Pipelines and notebooks
   - Reproducibility
   - Continuous integration environments ([Bamboo](https://www.atlassian.com/software/bamboo),
