@@ -61,19 +61,22 @@
   - Supercomputing resources
   - Cloud resources
 - Scientific computing in the cloud
-  - Working with EC2, GCP, and Azure (try to get industry tutorials?)
-  - RedCloud (get CAC tutorial?)
+  - Working with
+    [EC2](https://aws.amazon.com/),
+    [GCP](https://cloud.google.com/), and
+    [Azure](https://azure.microsoft.com/en-us/) (try to get industry tutorials?)
+  - [RedCloud](https://www.cac.cornell.edu/services/cloudservices.aspx) (get CAC tutorial?)
   - Accelerators, Infiniband, and other specialized support
 - Environment virtualization
   - Virtual machines
-  - Docker and containers
+  - [Docker](https://www.docker.com/) and containers
   - Language level: Python virtualenv and conda
 - Reproducibility issues
   - Reproducibility best practices
   - Special issues with reproducibility and high-performance computing
 - Build and configuration
   - "[The build problem](http://grosskurth.ca/bib/2003/dubois.pdf)": survey and history
-  - Autotools, CMake, SCons, etc
+  - [Autotools](https://www.gnu.org/software/automake/manual/html_node/Autotools-Introduction.html), [CMake](https://cmake.org/), [SCons](http://scons.org/), etc
 - Packaging and distribution
   - Semantic versioning
   - Automating distribution
@@ -81,9 +84,11 @@
   - Packaging in Python, Julia, R
   - Software licensing and copyright issues
 - Documentation
-  - Javadoc, Doxygen, Sphinx, and other tools
+  - [Javadoc](https://en.wikipedia.org/wiki/Javadoc),
+    [Doxygen](http://www.doxygen.org/),
+    [Sphinx](http://www.sphinx-doc.org/), and other tools
   - Plain-text formats: RESt, Markdown, LaTeX
-  - Pandoc
+  - [Pandoc](http://pandoc.org/)
   - Literate programming
 - Data management
   - "Just enough" SQL
@@ -125,5 +130,5 @@
   - Function calls vs inter-process communication
   - Build-time issues: portability, standard libraries, linkage
 - Fast math frameworks and libraries
-  - PETSc, Trilinos, SuperLU, etc
-  - ACTS framework
+  - [PETSc](https://www.mcs.anl.gov/petsc/) and [Trilinos](https://trilinos.org/)
+  - [ACTS collection](http://acts.nersc.gov/)
