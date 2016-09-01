@@ -78,7 +78,7 @@
   - "[The build problem](http://grosskurth.ca/bib/2003/dubois.pdf)": survey and history
   - [Autotools](https://www.gnu.org/software/automake/manual/html_node/Autotools-Introduction.html), [CMake](https://cmake.org/), [SCons](http://scons.org/), etc
 - Packaging and distribution
-  - Semantic versioning
+  - [Semantic versioning](http://semver.org/)
   - Automating distribution
   - Packaging of compiled codes
   - Packaging in Python, Julia, R
@@ -89,22 +89,29 @@
     [Sphinx](http://www.sphinx-doc.org/), and other tools
   - Plain-text formats: RESt, Markdown, LaTeX
   - [Pandoc](http://pandoc.org/)
-  - Literate programming
+  - [Literate programming](http://www.literateprogramming.com/)
 - Data management
   - "Just enough" SQL
-  - HDF5, NetCDF, and related formats
-  - XML, YAML, JSON, metadata, and semi-structured data
+  - [HDF5](https://www.hdfgroup.org/HDF5/),
+     [NetCDF](http://www.unidata.ucar.edu/software/netcdf/),
+     and related formats
+  - [XML](https://www.w3.org/XML/),
+     [YAML](http://yaml.org/),
+     [JSON](http://www.json.org/), metadata, and semi-structured data
   - Facilities for large-scale working data
   - Data set archival
 - Plotting and visualization
-  - Matplotlib, Seaborn, GNUPlot, D3, etc
+  - [Matplotlib](http://matplotlib.org/),
+     [Seaborn](https://stanford.edu/~mwaskom/software/seaborn/),
+     [GNUPlot](http://www.gnuplot.info/),
+     [D3](https://d3js.org/), etc
   - Visualization of network data
-  - Simulation visualization with VisIt and Paraview
-  - XTK
+  - Simulation visualization with [VisIt](https://wci.llnl.gov/simulation/computer-codes/visit/) and [Paraview](http://www.paraview.org/)
+  - [XTK](https://github.com/xtk/X)
 - Testing and company
   - Linting code
   - Code reviews and tools
-  - Valgrind and company
+  - [Valgrind](http://valgrind.org/) and company
   - Types of tests: unit, integration, regression, etc
   - Test-driven development
   - Tooling for test automation
