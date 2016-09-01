@@ -1,4 +1,4 @@
-# Cornell Scientific Software Club
+# CUSSW: Cornell University Scientific Software Club
 
 The purpose of the Cornell Scientific Software Club is to learn about
 modern tools relevant for developing and deploying scientific codes.
